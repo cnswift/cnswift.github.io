@@ -595,7 +595,6 @@ header nav ul li a:hover {
 }
 @media only screen and (min-width: 1024px) {
   #main {
-    margin: 1em 0 0;
     -webkit-transition: margin 0.5s ease-out;
     -moz-transition: margin 0.5s ease-out;
     -o-transition: margin 0.5s ease-out;
@@ -1698,7 +1697,7 @@ section.comment {
 @media only screen and (min-width: 1024px) {
   .archive-float li {
     float: none;
-  }
+  }2A
 }
 @media only screen and (min-width: 768px) {
   .tagcloudlist {
@@ -1922,7 +1921,7 @@ footer {
 }
 .article-content pre,
 .article-content .highlight {
-  background: #000;
+  background: #352A2A;
   border: 1px solid #ddd;
   margin: 0.5em 0;
   padding: 1em 2%;
